@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+	<config>
+		<name desc="用户名" ask="英文及数字">redRose</name>
+		<pwd desc="密码">123def哈哈</pwd>
+		<mac desc="加密机mac">9C4E36CB6700</mac>
+		<limit desc="页容量">10</limit>
+	</config>
+	<files totalPage="12">
+		<page page="1" num="10">
+			<file id="1">
+				<name>123</name>
+				<pwd>test123好</pwd>
+				<suff desc="后缀">.txt</suff>
+				<size desc="单位：B">1234567</size>
+				<encryt desc="加密后名称">9D8E6B751B20B95C0EEAE6499C4BEDA763240F7C85C6CA51CEED5AF051FB8DC33A32544FC0BA4BDB8B63D39EEDB606D9</encryt>
+				<decryp desc="解密后名称">123.txt</decryp>
+			</file>
+			.
+			.
+			.
+			.
+			.
+			.
+			.
+			<file id="10">
+				<name>123</name>
+				<pwd>test123好</pwd>
+				<suff desc="后缀">.txt</suff>
+				<size desc="单位：B">1234567</size>
+				<encryt desc="加密后名称">9D8E6B751B20B95C0EEAE6499C4BEDA763240F7C85C6CA51CEED5AF051FB8DC33A32544FC0BA4BDB8B63D39EEDB606D9</encryt>
+				<decryp desc="解密后名称">123.txt</decryp>
+			</file>
+		</page>
+		.
+		.
+		.
+		.
+		.
+		.
+		.
+		.
+		<page page="12" num="5">
+			<file id="1">
+				<name>123</name>
+				<pwd>test123好</pwd>
+				<suff desc="后缀">.txt</suff>
+				<size desc="单位：B">1234567</size>
+				<encryt desc="加密后名称">9D8E6B751B20B95C0EEAE6499C4BEDA763240F7C85C6CA51CEED5AF051FB8DC33A32544FC0BA4BDB8B63D39EEDB606D9</encryt>
+				<decryp desc="解密后名称">123.txt</decryp>
+			</file>
+			.
+			.
+			.
+			.
+			.
+			.
+			.
+			<file id="5">
+				<name>123</name>
+				<pwd>test123好</pwd>
+				<suff desc="后缀">.txt</suff>
+				<size desc="单位：B">1234567</size>
+				<encryt desc="加密后名称">9D8E6B751B20B95C0EEAE6499C4BEDA763240F7C85C6CA51CEED5AF051FB8DC33A32544FC0BA4BDB8B63D39EEDB606D9</encryt>
+				<decryp desc="解密后名称">123.txt</decryp>
+			</file>
+		</page>
+	</files>
+</root>
